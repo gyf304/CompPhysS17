@@ -12,10 +12,13 @@ def main():
     Hello World, from...
     Evan DeSantola  (tabasco sauce is awesome)
     Joel S. Welling
-    John Curcio
+    John Curcio! Thank you evan
+    Yifan Gu
+    John Curcio  Thank you evan
     chris quinones
     Yifan Gu (from own repo)
     Richard Zhao
+    cquinone (fork)
     """
 
 
